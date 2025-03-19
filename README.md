@@ -56,7 +56,7 @@
         - **Columns:** Year
         - **Values:** Sum of Revenue
     
-    ![image.png](image.png)
+    ![image.png](https://github.com/ndomah1/Learning-Microsoft-Excel/blob/main/images/01_pivot_tables.png)
     
 
 ## Formulas
@@ -64,7 +64,7 @@
 - Excel functions are essential for quickly processing and analyzing data.
 - We will use this data set to practice the most important formulas in Excel for data analytics:
     
-    ![image.png](image%201.png)
+    ![image.png](https://github.com/ndomah1/Learning-Microsoft-Excel/blob/main/images/02_formulas.png)
     
 - We can use our formula data set to demonstrate several key functions with real values:
 
@@ -127,7 +127,7 @@
     - It’s older than `XLOOKUP` and requires your lookup column to be on the left side of the data you want to return.
 - We will use the following table for our examples:
     
-    ![image.png](image%202.png)
+    ![image.png](https://github.com/ndomah1/Learning-Microsoft-Excel/blob/main/images/03_lookups.png)
     
 
 ### `VLOOKUP`
@@ -182,7 +182,7 @@
 
 ### Example 1 - Monthly Stationary Sales
 
-![image.png](image%203.png)
+![image.png](https://github.com/ndomah1/Learning-Microsoft-Excel/blob/main/images/04_cf_before.png)
 
 1. **Select Data Range:** Highlight all the monthly sales cells (January-December for Paper, Printer, and Manila Folder).
 2. **Navigate to Conditional Formatting:** On the Home tab in Excel, click **Conditional Formatting → Color Scales.**
@@ -190,11 +190,11 @@
 
 **Result:** Large sales figures (like 750 for Paper in April) show in green, and smaller ones (like 40 for Printer in January) appear in red:
 
-![image.png](image%204.png)
+![image.png](https://github.com/ndomah1/Learning-Microsoft-Excel/blob/main/images/05_cf_after.png)
 
 ### Example 2 - Highlighting Specific Thresholds
 
-![image.png](image%205.png)
+![image.png](https://github.com/ndomah1/Learning-Microsoft-Excel/blob/main/images/06_cf2_before.png)
 
 1. **Select the Salary Column:** Click and drag over all salary cells.
 2. **Set High-Salary Rule:**
@@ -209,7 +209,7 @@
 
 **Result:** Salaries above $60,000 (like Dwight’s $63,000) appear in green, while lower salaries (like Pam’s $36,000) are flagged in red:
 
-![image.png](image%206.png)
+![image.png](https://github.com/ndomah1/Learning-Microsoft-Excel/blob/main/images/07_cf2_after.png)
 
 ## Charts
 
@@ -218,7 +218,7 @@
 - By selecting the right chart type for each question - comparison, trend, or distribution, you can quickly uncover insights in your data.
 - We will use the following data set for our examples:
     
-    ![image.png](image%207.png)
+    ![image.png](https://github.com/ndomah1/Learning-Microsoft-Excel/blob/main/images/08_charts.png)
     
 
 ### Example 1 - Monthly Breakdown
@@ -231,7 +231,7 @@
         1. Use **Chart Title** to label the chart “Monthly Sales by Item”.
         2. Add a **Legend** if Excel doesn’t do so automatically.
     
-    ![image.png](image%208.png)
+    ![image.png](https://github.com/ndomah1/Learning-Microsoft-Excel/blob/main/images/09_monthly_breakdown.png)
     
 
 ### Example 2 - Trend Analysis
@@ -245,7 +245,7 @@
         2. Add **Axis Titles** (e.g., “Months” on the x-axis, “Total Sales” on the y-axis).
         3. Add a **Trendline**
     
-    ![image.png](image%209.png)
+    ![image.png](https://github.com/ndomah1/Learning-Microsoft-Excel/blob/main/images/10_trend_analysis.png)
     
 
 ### Example 3 - Year-End Distribution
@@ -257,7 +257,7 @@
         1. Click **Add Data Labels** to show each slice’s percentage or value.
         2. Right-click slices to **Format Data Series** (e.g., explode a slice, adjust colors).
     
-    ![image.png](image%2010.png)
+    ![image.png](https://github.com/ndomah1/Learning-Microsoft-Excel/blob/main/images/11_year_end%20distribution.png)
     
 
 ## Cleaning Data in Excel
@@ -267,7 +267,7 @@
 - By cleaning your data first, you avoid errors and build a solid foundation for deeper analysis.
 - We will use the following data set for our cleaning example:
     
-    ![image.png](image%2011.png)
+    ![image.png](https://github.com/ndomah1/Learning-Microsoft-Excel/blob/main/images/12_cleaning_data.png)
     
 
 ### Common Data Cleaning Steps
