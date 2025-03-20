@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [Learning Microsoft Excel](#learning-microsoft-excel)
 - [Pivot Tables](#pivot-tables)
 - [Formulas](#formulas)
   - [MAX & MIN](#max--min)
